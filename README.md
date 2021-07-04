@@ -1,1 +1,3 @@
-# prueba
+#!/bin/bash
+
+echo "Hola mundo "
